@@ -1,0 +1,14 @@
+.click {
+    background-color: black;
+    color: white;
+}
+
+.clock {
+    background-color: yellow;
+}
+
+.click,
+.clock {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
